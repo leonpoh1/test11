@@ -1,0 +1,700 @@
+<!-- <nav class="navbar navbar-expand-lg"> -->
+    <div class="bp-container">
+
+        <div class="navbar-brand">
+            <a class="navbar-item-1" href="/">
+                <img src="Style Library/jtc/images/logo-JTC.png" alt="JTC Corporation Logo">
+            </a>
+            <div class="navbar-burger burger" data-target="navbarExampleTransparentExample">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+    
+        <div id="navbarExampleTransparentExample" class="bp-container is-fluid margin--none navbar-menu">
+            <div class="navbar-topline">
+                <!-- <div class="navbar-topline-mobile">
+                    <div class="navbar-topline__text">
+                        <button class="cta cta-button js-cta-button">
+                            <span class="cta__icon icon-search"></span>
+                            <span class="cta__text">Search</span>
+                        </button>
+                    </div>
+                    <div class="navbar-topline__icon-close icon-close" data-toggle="collapse" data-target="#main-menu">
+                    </div>
+                </div> -->
+    
+                <a rel="noopener noreferrer" href="https://csp2.jtc.gov.sg/login/loginredirector.aspx?login=CP" target="_blank">
+                    <b><span  class="sgds-icon sgds-icon-person is-size-5"></span> Login</b>
+                </a>
+            </div>
+    
+            <div class="navbar-main">
+                <div class="thenav nav-level-0  menu">
+                    <div class="navbar-item-1  is-hoverable">
+                        <a class="navbar-links navbar-link-1 has-dropdown">Find Space</a>
+                        <div class="nav-level level-1">
+                            <div class="nav-items">
+                                <a class="navbar-links navbar-link-2" href="https://www.jtc.gov.sg/find-space" target=""><span>View all
+                                        spaces</span></a>
+                            </div>
+                            <div class="nav-items">
+                                <a class="navbar-links navbar-link-2" href="https://www.jtc.gov.sg/find-space?type=Business%20Park%20Space"
+                                    target=""><span>Business park
+                                        space</span></a>
+                            </div>
+                            <div class="nav-items">
+                                <a class="navbar-links navbar-link-2" href="https://www.jtc.gov.sg/find-space?type=factory space"
+                                    target=""><span>Factory
+                                        space</span></a>
+                            </div>
+                            <div class="nav-items">
+                                <a class="navbar-links navbar-link-2" href="https://www.jtc.gov.sg/find-space?type=landed factory"
+                                    target=""><span>Landed
+                                        factory</span></a>
+                            </div>
+                            <div class="nav-items">
+                                <a class="navbar-links navbar-link-2" href="https://www.jtc.gov.sg/find-space?type=office space"
+                                    target=""><span>Office
+                                        space</span></a>
+                            </div>
+                            <div class="nav-items has-dropdown">
+                                <a class="navbar-links navbar-link-2" href="#"><span>Others</span><span  class="sgds-icon sgds-icon-chevron-right is-size-3"></span></a>
+                            </div>
+                            
+                            <div class="nav-level level-2">
+                                <div class="dropdown-item-1">
+                                    
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3 disabled"
+                                        href="#" target=""><span  class="sgds-icon sgds-icon-chevron-left is-size-3"></span><span>Others</span></a>
+                                </div>
+                            
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3"
+                                    href="https://www.jtc.gov.sg/find-space/fb-and-retail-listing##eating-house-and-food-courts"
+                                    target=""><span>F&amp;B</span></a>
+                                </div>
+                            
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3"
+                                    href="https://www.jtc.gov.sg/find-space/fb-and-retail-listing##retail-shops"
+                                    target=""><span>Retail</span></a>
+                                </div>
+                            
+                            </div>
+                        </div>
+                    </div>
+                    <div class="navbar-item-1  is-hoverable">
+                        <a class="navbar-links navbar-link-1 has-dropdown">Find Land</a>
+                        <div class="nav-level level-1">
+                            <div class="nav-items has-dropdown" >
+                                <a rel="noopener noreferrer" class="navbar-links navbar-link-2"  class="navbar-item-1 sub-link-1" href="#" ><span>Land for tender</span><span  class="sgds-icon sgds-icon-chevron-right is-size-3"></span></a>
+                            </div>
+                            <div class="nav-level level-2">
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3 disabled" href="#" target=""><span  class="sgds-icon sgds-icon-chevron-left is-size-3"></span><span>Land for tender</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/find-land/land-for-tender/igls" target=""><span>Industrial Government Land Sales</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/find-land/land-for-tender/ancillary-launch" target=""><span>Ancillary land launch</span></a>
+                                </div>
+                            </div>
+                            
+                            <div class="nav-items has-dropdown" >
+                                <a rel="noopener noreferrer" class="navbar-links navbar-link-2" href="#" ><span>Land for temporary use</span><span  class="sgds-icon sgds-icon-chevron-right is-size-3"></span></a>
+                            </div>
+                            
+                            <div class="nav-level level-2">
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3 disabled" href="#" target=""><span  class="sgds-icon sgds-icon-chevron-left is-size-3"></span><span>Land for temporary use</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/find-land/land-for-temporary-use/tol" target=""><span>Temporary Occupation Licence tender</span></a>
+                                </div>
+                                
+                            </div>
+                            
+                            <div class="nav-items" >
+                                <a rel="noopener noreferrer" class="navbar-links navbar-link-2"  href="https://www.jtc.gov.sg/find-land/land-for-long-term-development" target=""><span>Land for long-term development</span></a>
+                            </div>
+                            
+                            <div class="nav-items" >
+                                <a rel="noopener noreferrer" class="navbar-links navbar-link-2"  href="https://www.jtc.gov.sg/find-land/industrial-land-rates" target=""><span>Industrial land rates</span></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="navbar-item-1  is-hoverable">
+                        <a class="navbar-links navbar-link-1 has-dropdown">Access Data</a>
+                        
+                        <div class="nav-level level-1">
+                            <div class="nav-items" >
+                                <a rel="noopener noreferrer" class="navbar-links navbar-link-2" href="landing.html" >Overview</a>
+                            </div>
+                            <div class="nav-items has-dropdown">
+                                <a class="navbar-links navbar-link-2" href="#"><span>Industrial property statistics</span><span  class="sgds-icon sgds-icon-chevron-right is-size-3"></span></a>
+                            </div>
+
+                            <div class="nav-level level-2">
+                                
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3 disabled"
+                                        href="#" target=""><span  class="sgds-icon sgds-icon-chevron-left is-size-3"></span><span>Industrial property statistics</span></a>
+                                </div>
+
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3"
+                                        href="price-sub-page.html" target=""><span>Price</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3"
+                                        href="rental-sub-page.html" target=""><span>Rental</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3"
+                                        href="oss-sub-page.html" target=""><span>Industrial
+                                            stock</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3"
+                                        href="pss-sub-page.html" target=""><span>Upcoming
+                                            supply</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3"
+                                        href="sp-sub-page.html" target=""><span>Sales
+                                            progress</span></a>
+                                </div>
+                            </div>
+                            <div class="nav-items has-dropdown" >
+                                <a rel="noopener noreferrer" class="navbar-links navbar-link-2"  class="navbar-item-1 sub-link-1" href="#" ><span>JTC statistics</span><span  class="sgds-icon sgds-icon-chevron-right is-size-3"></span></a>
+                            </div>
+                            <div class="nav-level level-2">
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3 disabled" href="#" target=""><span  class="sgds-icon sgds-icon-chevron-left is-size-3"></span><span>JTC statistics</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="jtcspace-sub-page.html" target=""><span>JTC industrial space</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="jtcland-sub-page.html" target=""><span>JTC industrial land</span></a>
+                                </div>
+                            </div>
+                            <div class="nav-items" >
+                                <a rel="noopener noreferrer" class="navbar-links navbar-link-2"  href="map.html" target=""><span>Map services</span></a>
+                            </div>
+                            <div class="nav-items" >
+                                <a rel="noopener noreferrer" class="navbar-links navbar-link-2"  href="typeselection.html" target=""><span>Table &amp; chart builder</span></a>
+                            </div>
+                            
+                            <div class="nav-items has-dropdown" >
+                                <a rel="noopener noreferrer" class="navbar-links navbar-link-2" href="#" ><span>Other information</span><span  class="sgds-icon sgds-icon-chevron-right is-size-3"></span></a>
+                            </div>
+                            <div class="nav-level level-2">
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3 disabled" href="#" target=""><span  class="sgds-icon sgds-icon-chevron-left is-size-3"></span><span>Other information</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3 latest-qmr-link" href="#"  onclick="location.href=window.latestQMRFile" target="_blank"><span>Quarterly market report</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="data-source.html" target=""><span>Data coverage &amp; methodology</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="data-release-calendar.html" target=""><span>Data release calendar</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="glossary-AtoF.html" target=""><span>Glossary</span></a>
+                                </div>
+                            </div>
+                        </div>
+    
+                    </div>
+                    <div class="navbar-item-1  is-hoverable">
+                        <a class="navbar-links navbar-link-1 has-dropdown">Get Help</a>
+                        <div class="nav-level level-1">
+                            <div class="nav-items has-dropdown" >
+                                <a rel="noopener noreferrer" class="navbar-links navbar-link-2"  class="navbar-item-1 sub-link-1" href="#" ><span>Applying for space or land</span><span  class="sgds-icon sgds-icon-chevron-right is-size-3"></span></a>
+                            </div>
+                            <div class="nav-level level-2">
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3 disabled" href="#" target=""><span  class="sgds-icon sgds-icon-chevron-left is-size-3"></span><span>Applying for space or land</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/get-help/applying-for-a-space-or-land/guide-to-e-bidding" target=""><span>Guide to e-Bidding</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/get-help/applying-for-a-space-or-land/guide-to-igls" target=""><span>Guide to Industrial Government Land Sales </span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/get-help/applying-for-a-space-or-land/guide-to-landed-factory" target=""><span>Guide to landed factories application</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/get-help/managing-your-tenancy-or-lease/solar-deployment" target=""><span>Mandatory solar deployment for land/land-based facilities</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/get-help/applying-for-a-space-or-land/application-forms-and-documents" target=""><span>Application forms and documents</span></a>
+                                </div>
+                            </div>
+                            <div class="nav-items has-dropdown" >
+                                <a rel="noopener noreferrer" class="navbar-links navbar-link-2"  class="navbar-item-1 sub-link-1" href="#" ><span>Payment, fees and fines</span><span  class="sgds-icon sgds-icon-chevron-right is-size-3"></span></a>
+                            </div>
+                            <div class="nav-level level-2">
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3 disabled" href="#" target=""><span  class="sgds-icon sgds-icon-chevron-left is-size-3"></span><span>Payment, fees and fines</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/get-help/payments-fees-and-fines/account-summary-and-tax-invoices" target=""><span>View your account summary and tax invoices</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/get-help/payments-fees-and-fines/payment-modes" target=""><span>Making payment</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/get-help/payments-fees-and-fines/enforcements-and-fines" target=""><span>Enforcement fees and fines</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/get-help/payments-fees-and-fines/administrative-fees" target=""><span>Administrative fees</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/get-help/payments-fees-and-fines/payment-forms-and-documents" target=""><span>Payment forms and documents</span></a>
+                                </div>
+                            </div>
+                            <div class="nav-items has-dropdown" >
+                                <a rel="noopener noreferrer" class="navbar-links navbar-link-2"  class="navbar-item-1 sub-link-1" href="#" ><span>Managing tenancy or lease</span><span  class="sgds-icon sgds-icon-chevron-right is-size-3"></span></a>
+                            </div>
+                            <div class="nav-level level-2">
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3 disabled" href="#" target=""><span  class="sgds-icon sgds-icon-chevron-left is-size-3"></span><span>Managing tenancy or lease</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/get-help/managing-your-tenancy-or-lease/subletting-your-premises" target=""><span>Subletting your premises</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/get-help/managing-your-tenancy-or-lease/renewing-your-tenancy-or-lease" target=""><span>Renewing your tenancy or lease</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/get-help/managing-your-tenancy-or-lease/transferring-your-tenancy-or-lease" target=""><span>Transferring your tenancy or lease</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/get-help/managing-your-tenancy-or-lease/terminating-your-tenancy-and-tenancy-expiry" target=""><span>Terminating your tenancy and tenancy expiry</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/get-help/managing-your-tenancy-or-lease/returning-your-premises-upon-lease-expiry" target=""><span>Returning your premises upon lease expiry</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/get-help/managing-your-tenancy-or-lease/changing-the-use-of-your-industrial-property" target=""><span>Changing the use of your industrial property</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/get-help/managing-your-tenancy-or-lease/non-exclusive-and-limited-religious-use-in-industrial-premises" target=""><span>Non-exclusive and limited religious use in industrial premises</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/get-help/managing-your-tenancy-or-lease/information-for-third-party-facility-providers" target=""><span>Information for third-party facility providers</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/get-help/managing-your-tenancy-or-lease/environmental-baseline-study" target=""><span>Environmental Baseline Study</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/get-help/managing-your-tenancy-or-lease/solar-deployment" target=""><span>Solar deployment</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/get-help/managing-your-tenancy-or-lease/conversion-to-dormitories" target=""><span>Conversion to dormitories</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/get-help/managing-your-tenancy-or-lease/notice-of-mortgage-or-charge" target=""><span>Notice of mortgage or charge</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/get-help/managing-your-tenancy-or-lease/notice-of-hire-purchase" target=""><span>Notice of hire purchase</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/get-help/managing-your-tenancy-or-lease/tenancy-and-lease-forms-and-documents" target=""><span>Tenancy and lease forms and documents</span></a>
+                                </div>  
+                            </div>
+                            <div class="nav-items has-dropdown" >
+                                <a rel="noopener noreferrer" class="navbar-links navbar-link-2"  class="navbar-item-1 sub-link-1" href="#" ><span>Development and renovation works</span><span  class="sgds-icon sgds-icon-chevron-right is-size-3"></span></a>
+                            </div>
+                            <div class="nav-level level-2">
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3 disabled" href="#" target=""><span  class="sgds-icon sgds-icon-chevron-left is-size-3"></span><span>Development and renovation works</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/get-help/development-and-renovation-works/redeveloping-your-land" target=""><span>Redeveloping your land</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/get-help/development-and-renovation-works/request-for-building-plans" target=""><span>Request for building plans</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/get-help/development-and-renovation-works/plan-consent" target=""><span>Plan consent</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/get-help/development-and-renovation-works/fitting-out-and-renovation-works" target=""><span>Fitting-out and renovation works</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/get-help/development-and-renovation-works/development-and-renovation-forms-and-documents" target=""><span>Development and renovation forms and documents</span></a>
+                                </div>
+                            </div>
+                            <div class="nav-items has-dropdown" >
+                                <a rel="noopener noreferrer" class="navbar-links navbar-link-2"  class="navbar-item-1 sub-link-1" href="#" ><span>Reporting issues in JTC estates</span><span  class="sgds-icon sgds-icon-chevron-right is-size-3"></span></a>
+                            </div>
+                            <div class="nav-level level-2">
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3 disabled" href="#" target=""><span  class="sgds-icon sgds-icon-chevron-left is-size-3"></span><span>Reporting issues in JTC estates</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/get-help/reporting-issues-in-jtc-estates/how-to-report-an-issue" target=""><span>How to report an issue</span></a>
+                                </div>
+                            </div>
+                            <div class="nav-items has-dropdown" >
+                                <a rel="noopener noreferrer" class="navbar-links navbar-link-2"  class="navbar-item-1 sub-link-1" href="#" ><span>Season parking</span><span  class="sgds-icon sgds-icon-chevron-right is-size-3"></span></a>
+                            </div>
+                            <div class="nav-level level-2">
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3 disabled" href="#" target=""><span  class="sgds-icon sgds-icon-chevron-left is-size-3"></span><span>Season parking</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/get-help/season-parking/applying-for-season-parking" target=""><span>Applying for season parking</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/get-help/season-parking/season-parking-forms-and-documents" target=""><span>Season parking forms and documents</span></a>
+                                </div>
+                            </div>
+                            <div class="nav-items has-dropdown" >
+                                <a rel="noopener noreferrer" class="navbar-links navbar-link-2"  class="navbar-item-1 sub-link-1" href="#" ><span>About the Customer Service Portal</span><span  class="sgds-icon sgds-icon-chevron-right is-size-3"></span></a>
+                            </div>
+                            <div class="nav-level level-2">
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3 disabled" href="#" target=""><span  class="sgds-icon sgds-icon-chevron-left is-size-3"></span><span>About the Customer Service Portal</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/get-help/about-the-customer-service-portal/introduction-to-csp" target=""><span>Introduction to Customer Service Portal</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/get-help/about-the-customer-service-portal/setup-csp-account" target=""><span>Set up and assign digital service access in Corppass</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/get-help/about-the-customer-service-portal/how-to-access-the-customer-service-portal" target=""><span>How to access the Customer Service Portal</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/get-help/about-the-customer-service-portal/how-to-assign-services-to-preparer" target=""><span>How to assign services to preparer</span></a>
+                                </div>
+                            </div>
+                            <div class="nav-items" >
+                                <a rel="noopener noreferrer" class="navbar-links navbar-link-2"  href="https://www.jtc.gov.sg/find-land/industrial-land-rates" target=""><span>Industrial land rates</span></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="navbar-item-1  is-hoverable">
+                        <a class="navbar-links navbar-link-1 has-dropdown">Enhance Your Business</a>
+                        <div class="nav-level level-1">
+                            <div class="nav-items has-dropdown" >
+                                <a rel="noopener noreferrer" class="navbar-links navbar-link-2"  class="navbar-item-1 sub-link-1" href="#" ><span>Industry Connect</span><span  class="sgds-icon sgds-icon-chevron-right is-size-3"></span></a>
+                            </div>
+                            <div class="nav-level level-2">
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3 disabled" href="#" target=""><span  class="sgds-icon sgds-icon-chevron-left is-size-3"></span><span>Industry Connect</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/enhance-your-business/industry-connect" target=""><span>What is Industry Connect?</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/enhance-your-business/industry-connect#how-it-helps-your-business" target=""><span>How it helps your business</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/enhance-your-business/industry-connect#what-to-expect" target=""><span>What to expect</span></a>
+                                </div>
+                            </div>
+                            <div class="nav-items has-dropdown" >
+                                <a rel="noopener noreferrer" class="navbar-links navbar-link-2"  class="navbar-item-1 sub-link-1" href="#" ><span>Attract and upskill talent</span><span  class="sgds-icon sgds-icon-chevron-right is-size-3"></span></a>
+                            </div>
+                            <div class="nav-level level-2">
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3 disabled" href="#" target=""><span  class="sgds-icon sgds-icon-chevron-left is-size-3"></span><span>Attract and upskill talent</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/enhance-your-business/attract-or-upskill-talent" target=""><span>Overview</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/enhance-your-business/attract-or-upskill-talent#talent-partners" target=""><span>Talent partners</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/enhance-your-business/attract-or-upskill-talent#upskilling" target=""><span>Upskilling</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/enhance-your-business/attract-or-upskill-talent#internship-programmes" target=""><span>Internship programmes</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/enhance-your-business/attract-or-upskill-talent#getting-started" target=""><span>Getting started</span></a>
+                                </div>
+                            </div>
+                            <div class="nav-items has-dropdown" >
+                                <a rel="noopener noreferrer" class="navbar-links navbar-link-2"  class="navbar-item-1 sub-link-1" href="#" ><span>Adopt technology solutions</span><span  class="sgds-icon sgds-icon-chevron-right is-size-3"></span></a>
+                            </div>
+                            <div class="nav-level level-2">
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3 disabled" href="#" target=""><span  class="sgds-icon sgds-icon-chevron-left is-size-3"></span><span>Adopt technology solutions</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/enhance-your-business/adopt-technology-solutions" target=""><span>Overview</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/enhance-your-business/adopt-technology-solutions#assess-technology-needs" target=""><span>Assess technology needs</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/enhance-your-business/adopt-technology-solutions#getting-started" target=""><span>Getting started</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/enhance-your-business/adopt-technology-solutions#technology-partners" target=""><span>Technology partners</span></a>
+                                </div>
+                            </div>
+                            <div class="nav-items has-dropdown" >
+                                <a rel="noopener noreferrer" class="navbar-links navbar-link-2"  class="navbar-item-1 sub-link-1" href="#" ><span>Be more sustainable</span><span  class="sgds-icon sgds-icon-chevron-right is-size-3"></span></a>
+                            </div>
+                            <div class="nav-level level-2">
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3 disabled" href="#" target=""><span  class="sgds-icon sgds-icon-chevron-left is-size-3"></span><span>Be more sustainable</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/enhance-your-business/be-more-sustainable" target=""><span>Circular Economy</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/enhance-your-business/be-more-sustainable#better-working-environments" target=""><span>Better work environments</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="xxx"href="https://www.jtc.gov.sg/enhance-your-business/be-more-sustainable#solarise-your-development" target=""><span>Solarise your development</span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="navbar-item-1  is-hoverable">
+                        <a class="navbar-links navbar-link-1 has-dropdown">About JTC</a>
+                        <div class="nav-level level-1">
+                            <div class="nav-items has-dropdown" >
+                                <a rel="noopener noreferrer"  class="navbar-links navbar-link-2"  href="#" ><span>Who we are</span><span  class="sgds-icon sgds-icon-chevron-right is-size-3"></span></a>
+                            </div>
+                            <div class="nav-level level-2">
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3 disabled" href="#" target=""><span  class="sgds-icon sgds-icon-chevron-left is-size-3"></span><span>Who we are</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/about-jtc/who-we-are" target=""><span>Overview</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/about-jtc/who-we-are#our-mission" target=""><span>Our mission</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/about-jtc/who-we-are#our-history" target=""><span>Our history</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/about-jtc/who-we-are#our-focus" target=""><span>Our focus</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/about-jtc/who-we-are#corporate-governance" target=""><span>Corporate governance</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/about-jtc/who-we-are#corporate-social-responsibility" target=""><span>Corporate social responsibility</span></a>
+                                </div>
+                            </div>
+                            <div class="nav-items has-dropdown" >
+                                <a rel="noopener noreferrer"  class="navbar-links navbar-link-2"  href="#" ><span>Why choose JTC</span><span  class="sgds-icon sgds-icon-chevron-right is-size-3"></span></a>
+                            </div>
+                            <div class="nav-level level-2">
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3 disabled" href="#" target=""><span  class="sgds-icon sgds-icon-chevron-left is-size-3"></span><span>Why choose JTC</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/about-jtc/why-choose-jtc" target=""><span>Understanding your industry</span></a>
+                                </div>
+                                
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/about-jtc/why-choose-jtc#anticipating-your-business-needs" target=""><span>Anticipating your business needs</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/about-jtc/why-choose-jtc#connecting-you-to-opportunities" target=""><span>Connecting you to opportunities</span></a>
+                                </div>
+                            </div>
+                            <div class="nav-items has-dropdown" >
+                                <a rel="noopener noreferrer"  class="navbar-links navbar-link-2"  href="#" ><span>Building and infrastructure innovation</span><span  class="sgds-icon sgds-icon-chevron-right is-size-3"></span></a>
+                            </div>
+                            <div class="nav-level level-2">
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3 disabled" href="#" target=""><span  class="sgds-icon sgds-icon-chevron-left is-size-3"></span><span>Building and infrastructure innovation</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/about-jtc/building-and-infrastructure-innovations" target=""><span>Pioneering new possibilities</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/about-jtc/building-and-infrastructure-innovations#research-and-innovation-partners" target=""><span>Research and innovation partners</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/about-jtc/building-and-infrastructure-innovations#featured-projects" target=""><span>Featured projects</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/about-jtc/building-and-infrastructure-innovations#jtc-innovation-challenge" target=""><span>JTC innovation challenge</span></a>
+                                </div>
+                            </div>
+                            
+                            <div class="nav-items has-dropdown" >
+                                <a rel="noopener noreferrer"  class="navbar-links navbar-link-2"  href="#" ><span>Championing sustainability</span><span  class="sgds-icon sgds-icon-chevron-right is-size-3"></span></a>
+                            </div>
+                            <div class="nav-level level-2">
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3 disabled" href="#" target=""><span  class="sgds-icon sgds-icon-chevron-left is-size-3"></span><span>Championing sustainability</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/about-jtc/championing-sustainability" target=""><span>Our commitment and goals</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/about-jtc/championing-sustainability#initiatives-and-programmes" target=""><span>Initiatives and programmes</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/about-jtc/championing-sustainability#sustainability-is-at-the-core-of-our-work" target=""><span>Sustainability is at the core of our work</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/about-jtc/championing-sustainability#our-sustainability-goals-and-you" target=""><span>Our sustainability goals and you</span></a>
+                                </div>
+                            </div>
+                            <div class="nav-items has-dropdown" >
+                                <a rel="noopener noreferrer"  class="navbar-links navbar-link-2"  href="#" ><span>Resources</span><span  class="sgds-icon sgds-icon-chevron-right is-size-3"></span></a>
+                            </div>
+                            <div class="nav-level level-2">
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3 disabled" href="#" target=""><span  class="sgds-icon sgds-icon-chevron-left is-size-3"></span><span>Resources</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/about-jtc/resources/annual-reports" target=""><span>Annual reports</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/about-jtc/resources/sustainability-reports" target=""><span>Sustainability reports</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://csp2.jtc.gov.sg/ebidding/cxresult.aspx" target="_blank"><span>e-Bidding results</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="map.html" target="_blank"><span>Map services</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="typeSelection.html" target="_blank"><span>Table &amp; chart builder</span></a>
+                                </div>
+                            </div>
+                            
+                            
+                            <div class="nav-items has-dropdown" >
+                                <a rel="noopener noreferrer"  class="navbar-links navbar-link-2"  href="#" ><span>News and stories</span><span  class="sgds-icon sgds-icon-chevron-right is-size-3"></span></a>
+                            </div>
+                            <div class="nav-level level-2">
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3 disabled" href="#" target=""><span  class="sgds-icon sgds-icon-chevron-left is-size-3"></span><span>News and stories</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/about-jtc/news-and-stories#feature-stories" target=""><span>Feature stories</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/about-jtc/news-and-stories#press-releases" target=""><span>Press releases</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/about-jtc/news-and-stories#speeches" target=""><span>Speeches</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/about-jtc/news-and-stories#media-contacts" target=""><span>Media contacts</span></a>
+                                </div>
+                            </div>
+                            
+                            
+                            <div class="nav-items has-dropdown" >
+                                <a rel="noopener noreferrer"  class="navbar-links navbar-link-2"  href="#" ><span>Careers</span><span  class="sgds-icon sgds-icon-chevron-right is-size-3"></span></a>
+                            </div>
+                            <div class="nav-level level-2">
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3 disabled" href="#" target=""><span  class="sgds-icon sgds-icon-chevron-left is-size-3"></span><span>Careers</span></a>
+                                </div>
+                                <div class="dropdown-item-1">
+                                    <a rel="noopener noreferrer" class="navbar-links navbar-link-3" href="https://www.jtc.gov.sg/about-jtc/careers/join-us" target=""><span>Join us</span></a>
+                                </div>
+                                <div class="dropdown-item-1 has-dropdown" >
+                                    <a rel="noopener noreferrer"  class="navbar-links navbar-link-3"  href="#" ><span>Jobs</span><span  class="sgds-icon sgds-icon-chevron-right is-size-3"></span></a>
+                                </div>
+                                <div class="nav-level level-3">
+                                    <div class="dropdown-item-1">
+                                        <a rel="noopener noreferrer" class="navbar-links navbar-link-4 disabled" href="#" target=""><span  class="sgds-icon sgds-icon-chevron-left is-size-3"></span><span>Jobs</span></a>
+                                    </div>
+                                    <div class="dropdown-item-1">
+                                        <a rel="noopener noreferrer" class="navbar-links navbar-link-4" href="https://www.jtc.gov.sg/about-jtc/careers/jobs" target=""><span>Jobs at JTC</span></a>
+                                    </div>
+                                    <div class="dropdown-item-1">
+                                        <a rel="noopener noreferrer" class="navbar-links navbar-link-4" href="https://www.jtc.gov.sg/about-jtc/careers/jobs#how-to-apply" target=""><span>How to apply</span></a>
+                                    </div>
+                                    <div class="dropdown-item-1">
+                                        <a rel="noopener noreferrer" class="navbar-links navbar-link-4" href="https://www.jtc.gov.sg/about-jtc/careers/jobs#hear-from-our-people" target=""><span>Hear from our people</span></a>
+                                    </div>
+                                </div>
+                                <div class="dropdown-item-1 has-dropdown" >
+                                    <a rel="noopener noreferrer"  class="navbar-links navbar-link-3"  href="#" ><span>Internships</span><span  class="sgds-icon sgds-icon-chevron-right is-size-3"></span></a>
+                                </div>
+                                <div class="nav-level level-3">
+                                    <div class="dropdown-item-1">
+                                        <a rel="noopener noreferrer" class="navbar-links navbar-link-4 disabled" href="#" target=""><span  class="sgds-icon sgds-icon-chevron-left is-size-3"></span><span>Internships</span></a>
+                                    </div>
+                                    <div class="dropdown-item-1">
+                                        <a rel="noopener noreferrer" class="navbar-links navbar-link-4" href="https://www.jtc.gov.sg/about-jtc/careers/internships" target=""><span>Internships at JTC</span></a>
+                                    </div>
+                                    <div class="dropdown-item-1">
+                                        <a rel="noopener noreferrer" class="navbar-links navbar-link-4" href="https://www.jtc.gov.sg/about-jtc/careers/internships#internship-programmes" target=""><span>Internship programmes</span></a>
+                                    </div>
+                                    <div class="dropdown-item-1">
+                                        <a rel="noopener noreferrer" class="navbar-links navbar-link-4" href="https://www.jtc.gov.sg/about-jtc/careers/internships#hear-from-our-interns" target=""><span>Hear from our interns</span></a>
+                                    </div>
+                                </div>
+                                <div class="dropdown-item-1 has-dropdown" >
+                                    <a rel="noopener noreferrer"  class="navbar-links navbar-link-3"  href="#" ><span>Scholarships</span><span  class="sgds-icon sgds-icon-chevron-right is-size-3"></span></a>
+                                </div>
+                                <div class="nav-level level-3">
+                                    <div class="dropdown-item-1">
+                                        <a rel="noopener noreferrer" class="navbar-links navbar-link-4 disabled" href="#" target=""><span  class="sgds-icon sgds-icon-chevron-left is-size-3"></span><span>Scholarships</span></a>
+                                    </div>
+                                    <div class="dropdown-item-1">
+                                        <a rel="noopener noreferrer" class="navbar-links navbar-link-4" href="https://www.jtc.gov.sg/about-jtc/careers/scholarships" target=""><span>Scholarships at JTC</span></a>
+                                    </div>
+                                    <div class="dropdown-item-1">
+                                        <a rel="noopener noreferrer" class="navbar-links navbar-link-4" href="https://www.jtc.gov.sg/about-jtc/careers/scholarships#eligibility" target=""><span>Eligibility</span></a>
+                                    </div>
+                                    <div class="dropdown-item-1">
+                                        <a rel="noopener noreferrer" class="navbar-links navbar-link-4" href="https://www.jtc.gov.sg/about-jtc/careers/scholarships#scholarship-types" target=""><span>Scholarship types</span></a>
+                                    </div>
+                                    <div class="dropdown-item-1">
+                                        <a rel="noopener noreferrer" class="navbar-links navbar-link-4" href="https://www.jtc.gov.sg/about-jtc/careers/scholarships#scholarship-benefits" target=""><span>Scholarship benefits</span></a>
+                                    </div>
+                                    <div class="dropdown-item-1">
+                                        <a rel="noopener noreferrer" class="navbar-links navbar-link-4" href="https://www.jtc.gov.sg/about-jtc/careers/scholarships#how-to-apply" target=""><span>How to apply</span></a>
+                                    </div>
+                                    <div class="dropdown-item-1">
+                                        <a rel="noopener noreferrer" class="navbar-links navbar-link-4" href="https://www.jtc.gov.sg/about-jtc/careers/scholarships#hear-from-our-scholars" target=""><span>Hear from our scholars</span></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="nav-items" >
+                                <a rel="noopener noreferrer"  class="navbar-links navbar-link-2"  href="https://www.jtc.gov.sg/about-jtc/contact-us" target=""><span>Contact us</span></a>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+                <!-- nav level 0 -->
+    
+                <div class="thenav nav-level-0 search">
+                    <a id="search-button" class="navbar-links navbar-link-1"><span  class="sgds-icon sgds-icon-search is-size-3"></span></a>
+                </div>
+                <!-- search  -->
+    
+            </div>
+            <!-- navbar-main -->
+        </div>
+        <!-- navbarExampleTransparentExample -->
+
+    
+       
+       
+    </div>  
+    <!-- bp-container -->
+    
+    <!-- </nav> -->
